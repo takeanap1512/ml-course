@@ -53,7 +53,7 @@ Clone [the repository](https://github.com/USTH-classroom/ml-course) `git clone g
 
 ## Group Project
 
-[📌 Group Project Instructions](./8-Group-Projects/group_project_ml_ai.md)
+[📌 Group Project Instructions](to come)
 
 - Project topics will be provided
 - Groups of 2–4 students (but can be also solo!)
